@@ -1,17 +1,14 @@
 {
-  "name": "threejs-project",
-  "version": "0.0.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^8.3.0"
-  },
+  "name": "java-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "three": "^0.186.1"
+    "three": "^0.186.1",
+    "vite": "^8.3.4"
   }
 }
